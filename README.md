@@ -13,6 +13,7 @@
 ##
 
 <div>
+<h1>My Stacks</h1>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" style="transform: rotate(90deg);">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" style="transform: rotate(90deg);">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" style="transform: rotate(90deg);">
@@ -31,3 +32,10 @@
   <a href="https://www.linkedin.com/in/juan-pablo4654/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Faoc265/Faoc265/output/github-contribution-grid-snake-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Faoc265/Faoc265/output/github-contribution-grid-snake-dark.svg">
+ <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Faoc265/Faoc265/output/github-contribution-grid-snake-dark.svg">
+</picture>
+<br><br>
