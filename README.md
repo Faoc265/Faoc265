@@ -1,4 +1,4 @@
-## Olá, Eu sou o Juan Pablo👋
+## Olá, Eu sou o Juan Pablo!👋
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando React
